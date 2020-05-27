@@ -1,5 +1,5 @@
 
-#Aliah University - Multi-script Scene Text Reading (AU-MSTR) Dataset
+## Aliah University - Multi-script Scene Text Reading (AU-MSTR) Dataset
 
 A multi-script indoor-outdoor scene image dataset is developed for text detection, referred to as Aliah University-Multi-script Scene Text Reading (AU-MSTR) dataset.
 Digital cameras built in handheld devices such as cellphones, smart phones, portable digital assistants (PDAs), etc. are used for preparation of this dataset due to its fast
