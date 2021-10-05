@@ -22,9 +22,8 @@ The following paper may be consulted and cited while referring to this dataset.
 > **T. Khan and A. F. Mollah, "A novel multi-scale deep neural framework for script invariant text detection" (Communicated)**
 
 ### Contributors
-Mr. Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
-
-Dr. Ayatullah Faruk Mollah, 
+- Mr. Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
+- Dr. Ayatullah Faruk Mollah, 
 Department of Computer Science and Engineering, 
 Aliah University, India
 
