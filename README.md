@@ -28,5 +28,4 @@ Mr. Tauseef Khan, Senuior Research Fellow, Department of Computer Science and En
 Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
 ### Contact
-Mr. Tauseef Khan
-Email: tauseef.hit2013@gmail.com
+Mr. Tauseef Khan, Email: tauseef.hit2013@gmail.com
