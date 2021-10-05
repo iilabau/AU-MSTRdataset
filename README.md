@@ -24,7 +24,9 @@ The following paper may be consulted and cited while referring to this dataset.
 ### Contributors
 Mr. Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
-Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
+Dr. Ayatullah Faruk Mollah, 
+Department of Computer Science and Engineering, 
+Aliah University, India
 
 ### Contact
 Mr. Tauseef Khan, Email: tauseef.hit2013@gmail.com
