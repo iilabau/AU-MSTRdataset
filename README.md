@@ -1,5 +1,5 @@
 
-## Aliah University - Multi-script Scene Text Reading (AU-MSTR) Dataset
+## AU-MSTR - A Multi-script Scene Text Reading Dataset
 
 A multi-script indoor-outdoor scene image dataset is developed for text detection, referred to as Aliah University-Multi-script Scene Text Reading (AU-MSTR) dataset.
 Digital cameras built in handheld devices such as cellphones, smart phones, portable digital assistants (PDAs), etc. are used for preparation of this dataset due to its fast and easy image acquisition capability under unconstrained environments. In this dataset, word level annotation is prepared for text detection task. Ground Truth (GT) file of each image is prepared separately and included in respective directory.
@@ -18,13 +18,15 @@ Total - 301 images (201 Training and 100 Test)
 
 
 ## Relevant Paper
-The following paper may be cited while referring to this dataset.
+The following paper may be consulted and cited while referring to this dataset.
 
-T. Khan, A.F. Mollah, "A novel multi-scale deep neural framework for script invariant text detection" (communicated)
+T. Khan, A.F. Mollah, "A novel multi-scale deep neural framework for script invariant text detection" (Communicated)
 
-## Contributors:
-Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
+## Contributors
+Mr. Tauseef Khan, Senuior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
 Dr. Ayatullah Faruk Mollah, Assistant Professor, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
 
-Contact: iilab.cse@gmail.com
+## Contact
+Mr. Tauseef Khan
+Email: tauseef.hit2013@gmail.com
