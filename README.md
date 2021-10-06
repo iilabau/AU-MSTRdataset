@@ -3,6 +3,7 @@
 
 A multi-script indoor-outdoor scene image dataset is developed for text detection, referred to as Aliah University-Multi-script Scene Text Reading (AU-MSTR) dataset.
 Digital cameras built in handheld devices such as cellphones, smart phones, portable digital assistants (PDAs), etc. are used for preparation of this dataset due to its fast and easy image acquisition capability under unconstrained environments.Images are captured under unconstraint environment using multiple cameras with varying focal length that generates perpective distorted image. Images are also captured in day-light and night, that certainly augment additional challenges for scene text detection.
+
 In the developed dataset, word-level annotation is prepared for multi-script text detection. Each word is enclosed by bounding box to generate corresponding GT. GT bounding boxes are specified by the coordinates of four corner points of boxes in clock-wise direction as {x1,y1},{x2,y2},{x3,y3},{x4,y4}. GT file is prepared using .txt format, where for each image a corresponding text file is prepared. Now, within each GT file, each row of coordinates represents a GT bounding box. GT file is prepared for both training and test set separately. 
 
 ### Dataset Summary
