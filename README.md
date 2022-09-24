@@ -21,7 +21,7 @@ Total train images -379, Total test images-190, Total images-569
 
 ### Relevant Paper
 The following paper may be consulted and cited while referring to this dataset.
-> **T. Khan and A. F. Mollah, "A novel multi-scale deep neural framework for script invariant text detection" (Communicated)**
+> **Khan, T. and Mollah, A.F., 2022. A Novel Multi-scale Deep Neural Framework for Script Invariant Text Detection. Neural Processing Letters, 54(2), pp.1371-1397.**
 
 ### Contributors
 - Mr. Tauseef Khan, Senior Research Fellow, Department of Computer Science and Engineering, Aliah University, IIA/27 NewTown, Kolkata 700160, India
